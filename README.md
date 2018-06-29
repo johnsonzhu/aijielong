@@ -13,6 +13,7 @@ API返回数据规则：
 目前共提供以下接口，更多接口还在不断更新开发中。
 
  - 通过成语获取成语详情 
+```
  -URL:https://api.aijielong.cn/idiom/word?name=一心一意
   参数：name 成语名称
   返回参数：name-成语名称，pinyin-成语拼音，meaning-成语解释，provenance-成语出处，example-成语用法示例
@@ -30,6 +31,8 @@ API返回数据规则：
     },
     "request_id":"15301680620667186"
 }
+
+```
 
 
  - 通过关键词搜索成语列表 
